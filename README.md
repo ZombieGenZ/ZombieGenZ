@@ -21,4 +21,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZombieGenZ/ZombieGenZ/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/ZombieGenZ/ZombieGenZ/output/github-snake.svg" />
 </picture>
-###
